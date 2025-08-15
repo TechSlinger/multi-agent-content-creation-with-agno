@@ -212,6 +212,10 @@ This project is for educational and demonstration purposes. Check the Agno frame
 
 ### Application in Action
 
+![1](https://github.com/user-attachments/assets/a9a9300b-8354-4022-ae10-5817e255ac6e)
+![2](https://github.com/user-attachments/assets/c227719e-4292-409c-9b3e-8490a5edb53a)
+![3](https://github.com/user-attachments/assets/c5201a61-ed9b-4bda-825d-30113bec902f)
+![4](https://github.com/user-attachments/assets/22e623ec-f13f-4fb5-9a68-471cec4ad548)
 
 
 ## 🎉 Example Output
