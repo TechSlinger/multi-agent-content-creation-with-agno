@@ -1,5 +1,0 @@
-Step 1:
-Title: Initial Thoughts
-Reasoning: I need to review the content provided by the writing agent for quality, accuracy, and engagement. I'll focus on the structure, language use, and the flow of the content. I'll also ensure that all claims are supported by evidence.
-Action: Review the content
-Confidence: 0.9
