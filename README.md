@@ -72,15 +72,6 @@ MISTRAL_API_KEY=your_mistral_api_key_here
 4. Generate a new API key
 5. Copy and paste it into your `.env` file
 
-### 5. VS Code Setup
-
-1. Open VS Code in your project directory
-2. Install the **Python extension** if not already installed
-3. Select your conda environment:
-   - Press `Ctrl + Shift + P`
-   - Type "Python: Select Interpreter"
-   - Choose the `agno-content` environment
-
 ## 📁 Project Structure
 
 ```
@@ -88,7 +79,7 @@ your-project-folder/
 │
 ├── content_creation.py    # Main application file
 ├── .env                   # Environment variables (API keys)
-└──  EADME.md              # This file
+└── README.md              # This file
 ```
 
 ## 🎮 Usage
